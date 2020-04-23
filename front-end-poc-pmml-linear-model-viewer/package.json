@@ -13,6 +13,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
+    "@kogito-tooling/core-api": "^0.4.1",
     "@patternfly/react-charts": "^5.3.18",
     "@patternfly/react-core": "^3.153.13",
     "@testing-library/jest-dom": "^4.2.4",
@@ -23,6 +24,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@wikipathways/cxml": "^0.2.14",
+    "appformer-js": "^0.2.6-ALPHA",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "~3.7.2"
